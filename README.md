@@ -46,3 +46,4 @@ python visualize.py --logs_path=./logs
 * [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 * [DQN and Policy Network](https://nthu-datalab.github.io/ml/labs/17_DQN_Policy_Network/17-DQN_&_Policy_Network.html)  
 # Fappybird-PyTorch
+# Fappybird-PyTorch
